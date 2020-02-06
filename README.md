@@ -1,0 +1,1 @@
+# js-resize-media-quries
